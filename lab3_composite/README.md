@@ -1,2 +1,2 @@
-Implementation of pattern design "composite" for the following task:/n
+Implementation of pattern design "composite" for the following task:
 In a higher educational institution, a student is part of a study group. The group is part of the stream at the department and the course at the faculty as a whole. Both the students, the group, and the faculty have a name or title. A student is also characterized by the array of grades he receives during the session. A flow of students consists of an array of groups, a course – of an array of flows, a faculty – of an array of courses. Organize the output of student grades, grouping them by groups, streams, courses. Also implement the method of calculating the average score for a student, group, etc.
