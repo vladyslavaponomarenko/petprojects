@@ -1,0 +1,14 @@
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\bin\Debug\netcoreapp3.1\lab3_composite.exe
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\bin\Debug\netcoreapp3.1\lab3_composite.deps.json
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\bin\Debug\netcoreapp3.1\lab3_composite.runtimeconfig.json
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\bin\Debug\netcoreapp3.1\lab3_composite.runtimeconfig.dev.json
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\bin\Debug\netcoreapp3.1\lab3_composite.dll
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\bin\Debug\netcoreapp3.1\lab3_composite.pdb
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\obj\Debug\netcoreapp3.1\lab3_composite.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\obj\Debug\netcoreapp3.1\lab3_composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\obj\Debug\netcoreapp3.1\lab3_composite.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\obj\Debug\netcoreapp3.1\lab3_composite.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\obj\Debug\netcoreapp3.1\lab3_composite.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\obj\Debug\netcoreapp3.1\lab3_composite.dll
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\obj\Debug\netcoreapp3.1\lab3_composite.pdb
+C:\Users\vladi\OneDrive\Документи\2 курс\1 семестр\прога\лаб3\lab3_composite\obj\Debug\netcoreapp3.1\lab3_composite.genruntimeconfig.cache
