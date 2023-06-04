@@ -1,0 +1,1 @@
+The program generates a sample, ranks it, and calculates statistical measures such as range and mean. It then applies predefined formulas to distribute the values into intervals and conducts frequency analysis on these intervals. This analysis provides insights into the distribution and characteristics of the generated sample, allowing for a more detailed examination of the data.
